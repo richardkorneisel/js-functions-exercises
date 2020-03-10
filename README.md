@@ -38,7 +38,7 @@ point below.
 
 - Take a number as a parameter and return itself squared.
 - Have 3 optional parameters, all numbers. Add all the numbers together. If the
-  function is called without passing any numbers in, simply return 10.
+  function is called without passing any arugments (ie: the numbers), simply return 10.
 - Take a number and add some amount of zeroes to the end, returning it (make
   sure you return a number, not a string)
 - return a function that console logs 'hello world' (yes you can write functions
